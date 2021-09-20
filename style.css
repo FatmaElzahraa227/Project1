@@ -1,7 +1,18 @@
+body{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+
+}
 .container
 {
     width: 100px;
     height: 100px;
     background-color: red;
     margin: auto;
+}
+.Second-container {
+    width: 50%;
+    background-color: black;
+    margin: auto;
+    text-align: center;
+    color: bisque;
 }
